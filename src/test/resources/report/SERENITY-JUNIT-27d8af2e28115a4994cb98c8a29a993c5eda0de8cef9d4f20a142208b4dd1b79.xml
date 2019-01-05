@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Select locale from Country Selector Page" skipped="0" tests="3" time="53.78" timestamp="2019-01-04T21:05:35.200+05:30[Asia/Calcutta]"><testcase name="Select Locale from country selector page"/><testcase name="Close Cookie on popup page"/><testcase name="Login to the actual shoping site"/></testsuite>

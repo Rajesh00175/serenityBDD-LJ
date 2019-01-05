@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Select locale from Country Selector Page","Select Locale from country selector page","SUCCESS","2019-01-04T19:26:51.852+05:30[Asia/Calcutta]","0.0","80.77"
+"Select locale from Country Selector Page","Close Cookie on popup page","SUCCESS","2019-01-04T19:28:12.617+05:30[Asia/Calcutta]","0.0","15.67"
+"Select locale from Country Selector Page","Login to the actual shoping site","SUCCESS","2019-01-04T19:28:28.304+05:30[Asia/Calcutta]","0.0","33.1"

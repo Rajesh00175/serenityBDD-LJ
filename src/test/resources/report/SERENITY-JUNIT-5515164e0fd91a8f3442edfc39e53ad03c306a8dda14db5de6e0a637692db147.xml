@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="3" failures="0" name="Select locale from Country Selector Page" skipped="0" tests="3" time="2.9" timestamp="2019-01-04T19:24:50.108+05:30[Asia/Calcutta]"><testcase name="Select Locale from country selector page"><error message="Could not instantiate new WebDriver instance of type class org.openqa.selenium.safari.SafariDriver (SafariDriver requires Safari 10 running on OSX El Capitan or greater.&#10;Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'&#10;System info: host: 'SMLP04', ip: '192.168.14.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_192'&#10;Driver info: driver.version: SafariDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate new WebDriver instance of type class org.openqa.selenium.safari.SafariDriver (SafariDriver requires Safari 10 running on OSX El Capitan or greater.
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'SMLP04', ip: '192.168.14.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_192'
+Driver info: driver.version: SafariDriver</error><system-err>Could not instantiate new WebDriver instance of type class org.openqa.selenium.safari.SafariDriver (SafariDriver requires Safari 10 running on OSX El Capitan or greater.
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'SMLP04', ip: '192.168.14.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_192'
+Driver info: driver.version: SafariDriver&#13;
+com.SLJ.steps.LJ.CountrySelectorSteps.openHomePage(CountrySelectorSteps.java:26)&#13;
+com.SLJ.steps.CountrySelectorStepDef.user_is_on_Country_Selector_page(CountrySelectorStepDef.java:24)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase><testcase name="Close Cookie on popup page"><error message="Could not instantiate new WebDriver instance of type class org.openqa.selenium.safari.SafariDriver (SafariDriver requires Safari 10 running on OSX El Capitan or greater.&#10;Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'&#10;System info: host: 'SMLP04', ip: '192.168.14.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_192'&#10;Driver info: driver.version: SafariDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate new WebDriver instance of type class org.openqa.selenium.safari.SafariDriver (SafariDriver requires Safari 10 running on OSX El Capitan or greater.
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'SMLP04', ip: '192.168.14.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_192'
+Driver info: driver.version: SafariDriver</error><system-err>Could not instantiate new WebDriver instance of type class org.openqa.selenium.safari.SafariDriver (SafariDriver requires Safari 10 running on OSX El Capitan or greater.
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'SMLP04', ip: '192.168.14.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_192'
+Driver info: driver.version: SafariDriver&#13;
+com.SLJ.steps.LJ.CountrySelectorSteps.openHomePage(CountrySelectorSteps.java:26)&#13;
+com.SLJ.steps.CloseCookieStepDef.user_on_LarsonJuhl_Popup_Page(CloseCookieStepDef.java:21)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase><testcase name="Login to the actual shoping site"><error message="Could not instantiate new WebDriver instance of type class org.openqa.selenium.safari.SafariDriver (SafariDriver requires Safari 10 running on OSX El Capitan or greater.&#10;Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'&#10;System info: host: 'SMLP04', ip: '192.168.14.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_192'&#10;Driver info: driver.version: SafariDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate new WebDriver instance of type class org.openqa.selenium.safari.SafariDriver (SafariDriver requires Safari 10 running on OSX El Capitan or greater.
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'SMLP04', ip: '192.168.14.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_192'
+Driver info: driver.version: SafariDriver</error><system-err>Could not instantiate new WebDriver instance of type class org.openqa.selenium.safari.SafariDriver (SafariDriver requires Safari 10 running on OSX El Capitan or greater.
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'SMLP04', ip: '192.168.14.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_192'
+Driver info: driver.version: SafariDriver&#13;
+com.SLJ.pages.UATPopupPage.loginPopup(UATPopupPage.java:27)&#13;
+com.SLJ.steps.LoginPopupSetupDef.user_enters_username_and_password(LoginPopupSetupDef.java:25)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
