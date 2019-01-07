@@ -18,17 +18,14 @@ public class CountrySelectorStepDef {
 	
 	@Steps(shared=true)
 	CountrySelectorSteps CS_steps;
-
 	@Given("^user is on Country Selector page$")
 	public void user_is_on_Country_Selector_page() throws Throwable {
 		CS_steps.openHomePage();
 	}
-
 	@When("^user selects country from page$")
 	public void user_selects_country_from_page() throws Throwable  {
 		CS_steps.selectCountry();
 	}
-	
 	@Then("^user should see Popup Page$")
 	public void user_should_see_Popup_Page() throws Throwable {
 	    Thread.sleep(5000);

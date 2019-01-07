@@ -8,15 +8,11 @@ import net.thucydides.core.annotations.Step;
 import net.thucydides.core.steps.ScenarioSteps;
 
 public class CountrySelectorSteps extends ScenarioSteps {
-		
+
 	/**
 	 * 
 	 */
 	private static final long serialVersionUID = 1L;
-	/**
-	 * Test Purpose
-	 */
-
 	CountrySelectorPage CSP;
 	CloseCookiePage CCP;
 	UATPopupPage UATPopup;
